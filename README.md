@@ -1,3 +1,3 @@
 # SMCE-AIDS
 
-Workshop related to SMCE Workshop on Version Control Systems.
+Workshop related to SMCE on Version Control Systems.
